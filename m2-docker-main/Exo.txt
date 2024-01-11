@@ -1,0 +1,4 @@
+Exo 1 : docker pull docsseo91/stardocker
+Exo 2 : docker build -t myapp .
+Exo 3 : docker run --name c_myapp -p 3000:3000  myapp
+Exo 4 : docker exec –it c_myapp /bin/bash
